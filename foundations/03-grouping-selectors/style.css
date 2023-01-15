@@ -1,0 +1,13 @@
+.buttonLeft,
+.buttonRight {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.buttonLeft {
+    background-color: rgb(250, 109, 109);
+}
+
+.buttonRight {
+    background-color: rgb(140, 247, 140);
+}
