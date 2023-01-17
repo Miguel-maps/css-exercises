@@ -15,6 +15,7 @@ body {
 
   display: flex;
   justify-content: space-around;
+  padding: 8px;
 }
 
 .header > .left {
@@ -28,6 +29,8 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  gap: 16px;
+  padding: 8px;
 }
 
 .profile-image {
@@ -52,6 +55,7 @@ body {
   margin: 0;
   padding: 8px;
   justify-content: space-evenly;
+  gap: 16px;
 }
 
 button {
